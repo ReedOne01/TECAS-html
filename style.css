@@ -66,6 +66,9 @@ video {
   width: 100vw;
   z-index: -2;
 }
+source {
+  width: 2%;
+}
 .herosection::after {
   content: "";
   height: 100vh;
